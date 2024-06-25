@@ -1,0 +1,142 @@
+/* #categories1{background-image: url(./images/Screenshots/bio\ waste.png); background-size: cover; background-repeat: no-repeat; width: 100%;height: 25%;}
+    .img-fluid{
+        max-width: 100%;
+        width: 100%;
+        height: 500px;
+    } */
+
+    /* .service-box{
+        width: 90%;
+        height: 90%;
+
+    } */
+    /* category 1 images start */
+    *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    /* .category-1-1{background-image: url(./images/Screenshots/automatic\ baling\ machine.png); background-size: cover; background-repeat: no-repeat; width: 100%;height: auto;}
+    .category-1-2{background-image: url(./images/Screenshots/D\ duster.png); background-size: cover; background-repeat: no-repeat; width: 100%;height: auto;} */
+ /* category 1 images end */
+ .slider-img{
+  width: fit-content;
+  height: 280px;
+ }
+.navbar{
+  background-color: rgb(255,140,0);
+}
+.producticoninner{
+  width:65px;height:65px; border-radius: 50%;background-color: rgb(255,140,0);
+
+}
+.cont{
+  height:250px;width:150px;
+  
+}
+ .cont img{
+    
+  width: 75%;
+  height: 150px;
+  min-width: 15px;
+  /* min-width: 30%; */
+
+}
+/* @media screen and (max-width: 414px) {
+  .cards {
+    
+    width: 30px;;
+  }
+}
+@media screen and (max-width: 344px) {
+  .cont  {
+    
+    max-width: 77px ;
+    max-height: 150px;
+  }
+}
+@media screen and (max-width: 344px) {
+  .container .cont p  {
+    
+    font-size: 1pt ;
+  }
+}
+@media screen and (max-width: 344px) {
+  .container .cont a  {
+    
+    font-size: 5pt ;
+  }
+} */
+
+
+
+
+
+a:link {
+  text-decoration: none;
+
+}
+#banner{
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grupobatistella.com.br%2F%3Fc%3Dvintage-style-banner-design-for-12%24-only-ss-QKOnExhV&psig=AOvVaw3Y7jYQdirDxzs6-Mfalf3i&ust=1718979886431000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCk7Mix6oYDFQAAAAAdAAAAABAJ);background-size: cover; background-repeat: no-repeat; width: 100%;height: 150px;
+}
+.btn{
+
+}
+.btn-primary {
+  background: #4285F4; }
+  .btn:hover, .btn:focus, .btn:active {
+    /* background-color: #5a95f5 !important; */
+    background-color: #5a95f5 !important; }
+  .btn-primary.active {
+    background-color: #0b51c5 !important; }
+
+
+    .card{
+  border-width: 0px;
+}
+#product-column :hover{
+  
+  background-color: white;
+
+}
+.fa{
+  font-size: 100px;
+}
+.producticoninner{
+  display: flex;align-items: center;justify-content: center;color: white; font-size: 30px;
+}
+ .parallax {
+    /* The image used */
+    background-image: url("./images/Screenshots/bailing\ machine\ \ \ big.png");
+  
+    /* Set a specific height */
+    min-height: 500px;
+    
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax2 {
+    /* The image used */
+    background-image: url("./images/Screenshots/bio\ waste.png");
+    width: 100%;
+    max-width: 350px;
+    overflow: cover;
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  
